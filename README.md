@@ -16,6 +16,8 @@ It builds the following ROMs:
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 Keep in mind that this is an already old version of Pokered.
 
+To patch the ROM, Beat Patcher is recommended. https://www.romhacking.net/utilities/893/
+
 Features:
 
 - New Super Gameboy Border that resembles Red and Green.
@@ -52,6 +54,7 @@ New sprites:
 
 Other disassembly projects:
 
+- [**Pokémon Red/Blue**][pokered]
 - [**Pokémon Yellow**][pokeyellow]
 - [**Pokémon Gold/Silver**][pokegold]
 - [**Pokémon Crystal**][pokecrystal]
@@ -61,6 +64,7 @@ Other disassembly projects:
 - [**Pokémon FireRed**][pokefirered]
 - [**Pokémon Emerald**][pokeemerald]
 
+[pokered]: https://github.com/pret/pokered
 [pokeyellow]: https://github.com/pret/pokeyellow
 [pokegold]: https://github.com/pret/pokegold
 [pokecrystal]: https://github.com/pret/pokecrystal
